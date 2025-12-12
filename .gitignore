@@ -1,2 +1,2 @@
 git add
-git comment - "add homepage with chatbot UI (azurebranch)"
+git comment -m "add homepage with chatbot UI (azurebranch)"
